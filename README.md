@@ -44,7 +44,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
 
 #Clonando o repositório do Github:
-$ git clone https://github.com/degabrielofi/MyPortfolio
+$ git clone https://github.com/willtechcod/site.portfolio.git
 
 #Acessar pasta Web:
 $ cd Web
@@ -62,7 +62,7 @@ $ npm run start
 ```bash
 
 #Clonando o repositório do Github:
-$ git clone https://github.com/degabrielofi/MyPortfolio
+$ git clone https://github.com/willtechcod/menssagens.git
 
 #Acessar pasta Web:
 $ cd Server
