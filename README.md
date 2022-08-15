@@ -25,7 +25,7 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 # 🔗 Acesse o site com o link abaixo.
 
-- [Gabriel Silva | Portfólio]()
+- [William Pereira | Portfólio]()
 
 ## :computer: Tecnologias utilizadas
 
