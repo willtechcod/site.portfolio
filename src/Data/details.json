@@ -1,0 +1,208 @@
+{
+   "DetailsIdentification": [
+      {
+         "DetailsID": 0
+      },
+      {
+         "Details": {
+            "title": "Home Page",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/LfoW71a.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/wa58t5L.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Esse projeto foi realizado a alguns meses atrás para testar conhecimentos de comportamento de responsividade. Espero que gostem do resultado final! 😁",
+            "link": "https://willtechcod.github.io/Home-Login/",
+            "icon": "https://i.imgur.com/MSLvyzk.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               }
+            ],
+            "video": {
+               "link": "https://www.youtube.com/embed/8lDgbgN0DJU",
+               "name": "Jogo da Velha | Projeto Programação"
+            }
+         },
+         "DetailsID": 1
+      },
+      {
+         "Details": {
+            "title": "Cronômetro",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/AZIIVlS.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/oOCHY2T.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Esse projeto tem como objetivo contar os dias, horas e minutos para o fim do ano. Espero que gostem do resultado final! 😁",
+            "link": "https://willtechcod.github.io/Ano-Novo/",
+            "icon": "https://i.imgur.com/TWDawZU.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               }
+            ],
+            "video": {
+               "link": "https://www.youtube.com/embed/VCPPVIFp6YA",
+               "name": "Jogo da Memória | Projeto Programação"
+            }
+         },
+         "DetailsID": 2
+      },
+      {
+         "Details": {
+            "title": "Links ulteis 🚀",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/yvza3mv.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/HTbLlvH.png",
+                  "class": "image"
+               },
+               {
+                  "image": "https://i.imgur.com/HTbLlvH.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Este projeto se resume em divulgar suas principais redes sociais para facilitar um maior número de contato.",
+            "link": "http://links.willtechcod.com/",
+            "icon": "https://i.imgur.com/gSrdQLI.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               },
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               }
+            ]
+         },
+         "DetailsID": 3
+      },
+      {
+         "Details": {
+            "title": "Aluga-me",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/IUMZFlc.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/WFhn6OQ.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Este projeto simula uma interface de um aplicativo de aluguel de casas, logo sera imprementado as funções de agendar visita e reservar uma residencia.",
+            "link": "https://github.com/willtechcod/Alugue",
+            "icon": "https://i.imgur.com/CugUz1B.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/NZPrPdK.png",
+                  "name": "React Native",
+                  "color": "#60dbfc"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               },
+               {
+                  "icon": "https://i.imgur.com/CUIChjo.png",
+                  "name": "Styled-components",
+                  "color": "#b4579f"
+               }
+            ]
+         },
+         "DetailsID": 4
+      },
+      {
+         "Details": {
+            "title": "Calculadora de BTUs",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/7MOd9VE.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/qEMsYKK.png",
+                  "class": "image"
+               },
+               {
+                  "image": "https://i.imgur.com/30nNo7U.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Ferramenta para ter precisão no calculo btus por metros quadrados considerando a incidência de luz solar do local.",
+            "link": "https://calculadora-de-btu-s.vercel.app/",
+            "icon": "https://i.imgur.com/fMMCzfH.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/NZPrPdK.png",
+                  "name": "React.js",
+                  "color": "#60dbfc"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               },
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               }
+            ]
+         },
+         "DetailsID": 5
+      }
+   ]
+}
