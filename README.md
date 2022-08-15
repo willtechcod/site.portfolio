@@ -25,7 +25,7 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 # 🔗 Acesse o site com o link abaixo.
 
-- [William Pereira | Portfólio]()
+- [William Pereira | Portfólio](https://site-portfolio-taupe.vercel.app/)
 
 ## :computer: Tecnologias utilizadas
 
@@ -78,5 +78,5 @@ $ npm run start
 ##
 
 <p align="center">
-  <img src="./Web/GitHub/Icon.png" width="15%">
+  <img src="./GitHub/Icon.png" width="15%">
   </p>
