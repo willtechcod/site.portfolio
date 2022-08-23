@@ -25,17 +25,9 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 # 🔗 Acesse o site com o link abaixo.
 
-- [William Pereira | Portfílio](www.willtechcod.com)
+- [William Pereira | Portfólio](www.willtechcod.com)
 
-===============
-
-## :computer: Tecnologias utilizadas
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
-- [React.js](https://pt-br.reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
-- [JavaScript](https://www.javascript.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Styled-Components](https://styled-components.com/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
