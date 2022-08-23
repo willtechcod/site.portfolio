@@ -25,7 +25,7 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 # 🔗 Acesse o site com o link abaixo.
 
-- [William Pereira | Portfólio](www.willtechcod.com/)
+- [William Pereira | Portfólio](www.willtechcod.com)
 
 - [Node.js](https://nodejs.org/en/)
 - [Bootstrap](https://getbootstrap.com/)
