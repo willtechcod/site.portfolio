@@ -25,11 +25,9 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 # 🔗 Acesse o site com o link abaixo.
 
-<<<<<<< HEAD
 - [William Pereira | Portfólio](www.willtechcod.com)
-=======
-- [William Pereira | Portfólio](https://site-portfolio-taupe.vercel.app/)
->>>>>>> 2a23bcb4f47503e01aef619181050e24a3b78f56
+
+====================================================
 
 ## :computer: Tecnologias utilizadas
 
