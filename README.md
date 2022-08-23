@@ -27,7 +27,7 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 - [William Pereira | Portfólio](www.willtechcod.com)
 
-====================================================
+=====
 
 ## :computer: Tecnologias utilizadas
 
