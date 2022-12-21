@@ -203,6 +203,128 @@
             ]
          },
          "DetailsID": 5
+      },
+      {
+         "Details": {
+            "title": "Mundo Invertido",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/iR9d9Ay.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/iR9d9Ay.png",
+                  "class": "image"
+               },
+               {
+                  "image": "https://i.imgur.com/iR9d9Ay.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Home Page Mundo invertido baseado na série Stranger Things.",
+            "link": "http://projeto.dio.willtechcod.com/",
+            "icon": "https://i.imgur.com/XOBhofm.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               },
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               }
+            ]
+         },
+         "DetailsID": 6
+      },
+      {
+         "Details": {
+            "title": "Barber-Pró",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/inlRdiI.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/inlRdiI.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Sistema de barbeiro profissional, com assinatura mensal.",
+            "link": "https://barberpro.vercel.app/",
+            "icon": "https://i.imgur.com/FK0hIMN.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/NZPrPdK.png",
+                  "name": "React.js",
+                  "color": "#60dbfc"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               },
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               }
+            ]
+         },
+         "DetailsID": 7
+      },
+      {
+         "Details": {
+            "title": "Clima Hoje",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/PPfDt5x.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/PPfDt5x.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Home Page dconsulta ao clima de uma cidade ou país.",
+            "link": "https://willtechcod.github.io/Clima-hoje/",
+            "icon": "https://i.imgur.com/4m8eFLw.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/NZPrPdK.png",
+                  "name": "React.js",
+                  "color": "#60dbfc"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               },
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               }
+            ]
+         },
+         "DetailsID": 8
       }
    ]
 }

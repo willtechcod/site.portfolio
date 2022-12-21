@@ -45,5 +45,29 @@
     "imgUrl": "https://i.imgur.com/lhb4TR5.png",
     "github": "https://github.com/willtechcod/Calculadora-de-BTUs",
     "id": "5"
+  },
+  {
+    "title": "Mundo Invertido",
+    "description": "Mundo invertido baseado na série Stranger Things.",
+    "link": "http://projeto.dio.willtechcod.com/",
+    "imgUrl": "https://i.imgur.com/iR9d9Ay.png",
+    "github": "https://github.com/willtechcod/mundo-invertido.git",
+    "id": "6"
+  },
+  {
+    "title": "Barber-Pró",
+    "description": "Um SASS de um Sistema de barbearia completo.",
+    "link": "https://barberpro.vercel.app/",
+    "imgUrl": "https://i.imgur.com/inlRdiI.png",
+    "github": "https://github.com/willtechcod/barberpro.git",
+    "id": "7"
+  },
+  {
+    "title": "Consulte o Clima de uma cidade ou país",
+    "description": "Home Page de consulta de clima de uma cidade ou país.",
+    "link": "https://willtechcod.github.io/Clima-hoje/",
+    "imgUrl": "https://i.imgur.com/PPfDt5x.png",
+    "github": "https://github.com/willtechcod/Clima-hoje.git",
+    "id": "8"
   }
 ]
