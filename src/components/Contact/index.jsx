@@ -71,7 +71,7 @@ const Contact = () => {
                 <div className="phone details">
                   <i className="fas fa-phone-alt"></i>
                   <div className="topic">Telefone:</div>
-                  <a target="--black" className="whatsapp" href="https://api.whatsapp.com/send?phone=5547996838218&text=Ol%C3%A1%20Gabriel!"> <div className="text-one">+55 67 99174-1509</div></a>
+                  <a target="--black" className="whatsapp" href="https://api.whatsapp.com/send?phone=5547991647104&text=Ol%C3%A1%20William!"> <div className="text-one">+55 47 99164-7104</div></a>
                 </div>
                 <div className="email details">
                   <i className="fas fa-envelope"></i>
