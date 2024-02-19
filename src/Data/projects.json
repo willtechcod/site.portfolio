@@ -69,5 +69,29 @@
     "imgUrl": "https://i.imgur.com/cKuGeem.png",
     "github": "https://github.com/willtechcod/Clima-hoje.git",
     "id": "8"
+  },
+  {
+    "title": "Pizzaria Da Jú",
+    "description": "Home Page de pedidos de uma pizzaria.",
+    "link": "https://willtechcod.github.io/Pizzaria/",
+    "imgUrl": "https://i.imgur.com/xRUx32M.png",
+    "github": "https://github.com/willtechcod/Pizzaria.git",
+    "id": "9"
+  },
+  {
+    "title": "Shopping List",
+    "description": "Aplicativo que auxilia na hora de você fazer suas compras, cria, atualiza e exclui sua lista de compras.",
+    "link": "https://github.com/willtechcod/Shopping-List.git",
+    "imgUrl": "https://i.imgur.com/wTndk8X.png",
+    "github": "https://github.com/willtechcod/Shopping-List.git",
+    "id": "10"
+  },
+  {
+    "title": "Calculadora de BTUs",
+    "description": "App que faz o calculo de precisão de BTUs conforme seu ambiente.",
+    "link": "https://github.com/willtechcod/Calculadora-BTUs.git",
+    "imgUrl": "https://i.imgur.com/E0cYGzx.png",
+    "github": "https://github.com/willtechcod/Calculadora-BTUs.git",
+    "id": "11"
   }
 ]

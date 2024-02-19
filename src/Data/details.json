@@ -141,6 +141,11 @@
             "icon": "https://i.imgur.com/CugUz1B.png",
             "technologies": [
                {
+                  "icon": "https://i.imgur.com/Ra3HvSn.png",
+                  "name": "Expo",
+                  "color": "#FFFFFF"
+               },
+               {
                   "icon": "https://i.imgur.com/NZPrPdK.png",
                   "name": "React Native",
                   "color": "#60dbfc"
@@ -321,6 +326,114 @@
             ]
          },
          "DetailsID": 8
+      },
+      {
+         "Details": {
+            "title": "Pizzaria da Jú",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/OL4e0YU.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/xRUx32M.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Site de Pedidos de uma pizzara.",
+            "link": "https://willtechcod.github.io/Pizzaria/",
+            "icon": "https://i.imgur.com/iPVzhXs.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               },
+               {
+                  "icon": "https://i.imgur.com/T9zUapZ.png",
+                  "name": "HTML",
+                  "color": "#e54c22"
+               },
+               {
+                  "icon": "https://i.imgur.com/Bw1G9et.png",
+                  "name": "CSS",
+                  "color": "#1b73ba"
+               }
+            ]
+         },
+         "DetailsID": 9
+      },
+      {
+         "Details": {
+            "title": "Shopping List",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/jeXcp92.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/wTndk8X.png",
+                  "class": "image"
+               }
+            ],
+            "description": "Aplicativo feito com intuito de auxiliar sua lista de compras",
+            "link": "https://github.com/willtechcod/Shopping-List.git",
+            "icon": "https://i.imgur.com/XI9o5rd.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/Ra3HvSn.png",
+                  "name": "Expo",
+                  "color": "#FFFFFF"
+               },
+               {
+                  "icon": "https://i.imgur.com/NZPrPdK.png",
+                  "name": "React Native",
+                  "color": "#60dbfc"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               }
+            ]
+         },
+         "DetailsID": 10
+      },
+      {
+         "Details": {
+            "title": "Calculadora de BTUs",
+            "images": [
+               {
+                  "image": "https://i.imgur.com/JMbtTjg.png",
+                  "class": "mockup"
+               },
+               {
+                  "image": "https://i.imgur.com/E0cYGzx.png",
+                  "class": "image"
+               }
+            ],
+            "description": "App que faz o calculo de precisão de BTUs conforme seu ambiente.",
+            "link": "https://github.com/willtechcod/Calculadora-BTUs.git",
+            "icon": "https://i.imgur.com/ym2qKDk.png",
+            "technologies": [
+               {
+                  "icon": "https://i.imgur.com/Ra3HvSn.png",
+                  "name": "Expo",
+                  "color": "#FFFFFF"
+               },
+               {
+                  "icon": "https://i.imgur.com/NZPrPdK.png",
+                  "name": "React Native",
+                  "color": "#60dbfc"
+               },
+               {
+                  "icon": "https://i.imgur.com/TqA6g5H.png",
+                  "name": "JavaScript",
+                  "color": "#f7e018"
+               }
+            ]
+         },
+         "DetailsID": 11
       }
    ]
 }
