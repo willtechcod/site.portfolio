@@ -66,7 +66,7 @@ const Contact = () => {
                 <div className="address details">
                   <i className="fas fa-map-marker-alt"></i>
                   <div className="topic">Localização:</div>
-                  <div className="text-one">Itapema-SC - Brasil</div>
+                  <div className="text-one">Joinville-SC - Brasil</div>
                 </div>
                 <div className="phone details">
                   <i className="fas fa-phone-alt"></i>

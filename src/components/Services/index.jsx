@@ -24,7 +24,7 @@ const Services = () => {
                   <div className="title">Mobile Developer</div>
                   <span>APLICATIVOS PARA ANDROID E IOS</span>
                   <div className="p-2"></div>
-               <p>   Criação e o desenvolvimento de aplivcativos nativos  para alavancar a sua empresa.</p><div class="p-2"></div>
+               <p>   Criação e o desenvolvimento de aplicativos nativos  para alavancar a sua empresa.</p><div class="p-2"></div>
                   <a href="#footer" className="linknav" data-id="contact"><div className="btn-default">Saiba mais</div></a>
                 </div>
                 <div className="p-4"></div>
@@ -34,7 +34,7 @@ const Services = () => {
                   <img className="lazyload" src={images.IconAdobe.link} alt="Icon" />
                   <div className="title">Designer</div>
                   <span>DESIGNER GRÁFICO</span>
-                  <div className="p-2"></div><p>Criação e o desenvolvimento de artes no Photoshop e Figma para alavancar a sua empresa.</p><div class="p-2"></div>
+                  <div className="p-2"></div><p>Criação e o desenvolvimento de artes no Photoshop e Figma para melhor atender a sua empresa.</p><div class="p-2"></div>
                   <a href="#footer" className="linknav" data-id="contact"><div className="btn-default">Saiba mais</div></a>
                 </div>
                 <div className="p-4"></div>

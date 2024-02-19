@@ -8,10 +8,6 @@
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/degabrielofi/MyPortfolio?color=60dbfc">
 </p>
 
-<p align="center">
-  <img alt="MyLinks" src="./GitHub/Mockup.png" width="70%"> 
-  </p>
-
 # :clipboard: Sobre o projeto
 
 Este é o meu Portfólio, onde você poderá ver um pouco mais sobre mim e como entrei no mundo do desenvolvimento, e ainda alguns dos meus principais projetos. Tudo isso em um só lugar.

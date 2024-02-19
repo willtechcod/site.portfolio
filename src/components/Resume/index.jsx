@@ -35,7 +35,7 @@ const Resume = () => {
                                     </div>
                                     <h2>Ensino Superior</h2>
                                     <span className="position">Estácio de Sá</span>
-                                    <p className="mt-4">Análise e desenvolvimento de Sistemas, trancada por motivo do início da pamdemia. Mais busco sempre estar atualizado com cursos e workshops, sempre atraz de conhecimento.</p>
+                                    <p className="mt-4">Análise e desenvolvimento de Sistemas, trancada por motivo do início da pandemia. Mais busco sempre estar atualizado com cursos e workshops, sempre atraz de conhecimento.</p>
                                 </div>
 
                             </div>
