@@ -59,6 +59,10 @@ margin-top: -15rem;
     border: solid 3px #0563bb;
 }
 
+.items {
+    margin-top: 2ren;
+}
+
 @media (max-width: 992px) {
 
     margin-top: -5rem;

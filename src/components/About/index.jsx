@@ -34,7 +34,7 @@ const About = () => {
                             </div>
                             <div className="col-xl-4">
                                 <h2>Olá,</h2>
-                                <p>sou William Pereira,  Desenvolvedor FullStack  e entusiasta em UX. Possuo experiência com trabalhos em equipes. Atualmente tenho 34 anos, e sou mais que apaixonado pela área da tecnologia.</p>
+                                <p>sou William Pereira,  Desenvolvedor FullStack  e entusiasta em UX. Possuo experiência com trabalhos em equipes. Atualmente tenho 36 anos, e sou mais que apaixonado pela área da tecnologia.</p>
                                 <p> Me considero ágil e consistente em aprender uma nova tecnologia e me adaptar a qualquer mudança, e sempre estou pronto para superar qualquer desafio. Se eu pudesse me definir em 3 palavras, certamente seriam: comprometido, esforçado e determinado! :)
                                 </p>
                                 <p></p>
