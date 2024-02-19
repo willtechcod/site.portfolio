@@ -60,7 +60,7 @@ margin-top: -15rem;
 }
 
 .items {
-    margin-top: 2rem;
+    margin-top: 2.5rem;
 }
 
 @media (max-width: 992px) {
