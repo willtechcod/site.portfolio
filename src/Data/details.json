@@ -122,7 +122,10 @@
             ]
          },
          "DetailsID": 3
-      },     
+      },
+      {
+         "DetailsID": 4
+      },    
       {
          "Details": {
             "title": "Calculadora de BTUs",
@@ -166,7 +169,7 @@
                }
             ]
          },
-         "DetailsID": 4
+         "DetailsID": 5
       },
       {
          "Details": {
@@ -202,7 +205,7 @@
                }
             ]
          },
-         "DetailsID": 5
+         "DetailsID": 6
       },
       {
          "Details": {
@@ -243,7 +246,7 @@
                }
             ]
          },
-         "DetailsID": 6
+         "DetailsID": 7
       },
       {
          "Details": {
@@ -284,7 +287,7 @@
                }
             ]
          },
-         "DetailsID": 7
+         "DetailsID": 8
       },
       {
          "Details": {
@@ -320,7 +323,13 @@
                }
             ]
          },
-         "DetailsID": 8
+         "DetailsID": 9
+      },
+      {
+         "DetailsID": 10
+      },
+      {
+         "DetailsID": 11
       }
    ]
 }
