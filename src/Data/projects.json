@@ -25,7 +25,7 @@
   {
     "title": "Links para redes sociais",
     "description": "Pagina que redireciona a minhas redes socias.",
-    "link": "http://links.willtechcod.com/",
+    "link": "https://willtechcod.github.io/links/",
     "imgUrl": "https://i.imgur.com/HwYsQMH.png",
     "github": "https://github.com/willtechcod/links",
     "id": "3"
@@ -48,7 +48,7 @@
   {
     "title": "Mundo Invertido",
     "description": "Mundo invertido baseado na série Stranger Things.",
-    "link": "http://projeto.dio.willtechcod.com/",
+    "link": "https://willtechcod.github.io/mundo-invertido/",
     "imgUrl": "https://i.imgur.com/Vjaho2I.png",
     "github": "https://github.com/willtechcod/mundo-invertido.git",
     "id": "6"
