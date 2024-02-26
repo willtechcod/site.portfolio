@@ -77,7 +77,7 @@ section.services {
     position: relative;
     padding-top: 1rem;
     text-align: center;
-    background: url(${images.ServiceIcon.link}) center no-repeat;
+    //background: url(${images.ServiceIcon.link}) center no-repeat;
     background-position-y: 250px;
 
   }
