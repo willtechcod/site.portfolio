@@ -1,6 +1,6 @@
 [
   {
-    "title": "Controle de Finaças ツ",
+    "title": "Controle de Finaças",
     "description": "Gerencie seus gastos do dia dia.",
     "link": "https://github.com/willtechcod/Controle-Financeiro",
     "imgUrl": "https://i.imgur.com/v9In7UG.png",
@@ -10,48 +10,9 @@
     "title": "Sistema de Cardápio Digital",
     "description": "Sistema completo para pedido e entrega, para agilizar seu atendimento.",
     "link": "https://cardapio-digital-rho.vercel.app/",
-    "imgUrl": "https://i.imgur.com/vGHTvKa.png",
+    "imgUrl": "https://i.imgur.com/owfyeMd.png",
     "github": "https://github.com/willtechcod/Cardapio-Digital",
     "id": "1"
-  },
-  {
-    "title": "Cronômetro",
-    "description": "Cronômetro que mostra os dias, horas e minutos para o fim do ano.",
-    "link": "https://willtechcod.github.io/Ano-Novo/",
-    "imgUrl": "https://i.imgur.com/JDvZUfP.png",
-    "github": "https://github.com/willtechcod/Ano-Novo",
-    "id": "2"
-  },
-  {
-    "title": "Links para redes sociais",
-    "description": "Pagina que redireciona a minhas redes socias.",
-    "link": "https://willtechcod.github.io/links/",
-    "imgUrl": "https://i.imgur.com/HwYsQMH.png",
-    "github": "https://github.com/willtechcod/links",
-    "id": "3"
-  },
-  {
-    "title": "Aplicativo Aluga-me",
-    "description": "aplicativo que simula uma plataforma de aluguel de casas.",
-    "link": "https://github.com/willtechcod/Alugue",
-    "imgUrl": "https://i.imgur.com/WFhn6OQ.png",
-    "github": "https://github.com/willtechcod/Alugue"
-  },
-  {
-    "title": "Calculadora de BTUs",
-    "description": "site para calcular qual ar condicionado ideal para você.",
-    "link": "https://calculadora-de-btu-s.vercel.app/",
-    "imgUrl": "https://i.imgur.com/lhb4TR5.png",
-    "github": "https://github.com/willtechcod/Calculadora-de-BTUs",
-    "id": "5"
-  },
-  {
-    "title": "Mundo Invertido",
-    "description": "Mundo invertido baseado na série Stranger Things.",
-    "link": "https://willtechcod.github.io/mundo-invertido/",
-    "imgUrl": "https://i.imgur.com/Vjaho2I.png",
-    "github": "https://github.com/willtechcod/mundo-invertido.git",
-    "id": "6"
   },
   {
     "title": "Barber-Pró",
@@ -59,23 +20,7 @@
     "link": "https://barberpro.vercel.app/",
     "imgUrl": "https://i.imgur.com/CkVvczI.png",
     "github": "https://github.com/willtechcod/barberpro.git",
-    "id": "7"
-  },
-  {
-    "title": "Consulte o Clima de uma cidade ou país",
-    "description": "Home Page de consulta de clima de uma cidade ou país.",
-    "link": "https://willtechcod.github.io/Clima-hoje/",
-    "imgUrl": "https://i.imgur.com/cKuGeem.png",
-    "github": "https://github.com/willtechcod/Clima-hoje.git",
-    "id": "8"
-  },
-  {
-    "title": "Pizzaria Da Jú",
-    "description": "Home Page de pedidos de uma pizzaria.",
-    "link": "https://willtechcod.github.io/Pizzaria/",
-    "imgUrl": "https://i.imgur.com/xRUx32M.png",
-    "github": "https://github.com/willtechcod/Pizzaria.git",
-    "id": "9"
+    "id": "2"
   },
   {
     "title": "Shopping List",
