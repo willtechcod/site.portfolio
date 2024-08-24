@@ -7,11 +7,11 @@
     "github": "https://github.com/willtechcod/Controle-Financeiro"
   },
   {
-    "title": "Home Page",
-    "description": "Homepage de um sitema de LogIn.",
-    "link": "https://willtechcod.github.io/Home-Login/",
+    "title": "Sistema de Cardápio Digital",
+    "description": "Sistema completo para pedido e entrega, para agilizar seu atendimento.",
+    "link": "https://cardapio-digital-rho.vercel.app/",
     "imgUrl": "https://i.imgur.com/vGHTvKa.png",
-    "github": "https://github.com/willtechcod/Home-Login",
+    "github": "https://github.com/willtechcod/Cardapio-Digital",
     "id": "1"
   },
   {
